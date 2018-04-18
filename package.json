@@ -1,0 +1,35 @@
+{
+  "name": "@blueshit/aliyun-sms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "files": [
+    "dist/index.js",
+    "dist/index.d.ts"
+  ],
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^9.6.5",
+    "ts-node": "^6.0.0",
+    "typescript": "^2.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npmshit/aliyun-sms.git"
+  },
+  "keywords": [
+    "alidayu",
+    "ali-sms",
+    "aliyun-sms"
+  ],
+  "author": "Yourtion <yourtion@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/npmshit/aliyun-sms/issues"
+  },
+  "homepage": "https://github.com/npmshit/aliyun-sms#readme"
+}
