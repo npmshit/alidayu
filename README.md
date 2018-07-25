@@ -11,7 +11,7 @@ npm i @blueshit/aliyun-sms -S
 ## 使用
 
 ```javascript
-const Alidayu = require("@blueshit/aliyun-sms");
+const Alidayu = require("@blueshit/aliyun-sms").default;
 
 // 初始化客户端
 const client = new Alidayu({
